@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769829174264",
+    "firebase_url": "https://silver-valley-f3eee.firebaseio.com",
+    "project_id": "silver-valley-f3eee",
+    "storage_bucket": "silver-valley-f3eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769829174264:android:365b93d78e3bd736c8b40d",
+        "android_client_info": {
+          "package_name": "com.example.silvervalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769829174264-njs1iv4ob6kfjjgq260v84p9nabsumbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuy00YT-vTRP3Y7xz57dzI2QIrXpk6YqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769829174264-njs1iv4ob6kfjjgq260v84p9nabsumbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
